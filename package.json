@@ -1,7 +1,7 @@
 {
-  "name": "isSolid",
-  "version": "1.0.0",
-  "description": "Describe isSolid here",
+  "name": "is-solid",
+  "version": "1.0.2",
+  "description": "Check if the given value is undefined, null or empty string/array/object",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -18,12 +18,13 @@
     "test:watch": "nwb test --server"
   },
   "dependencies": {
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "nwb": "0.23.x"
   },
-  "author": "",
-  "homepage": "",
+  "author": "creotip",
+  "homepage": "creotip.io",
   "license": "MIT",
   "repository": ""
 }
