@@ -1,6 +1,6 @@
 {
   "name": "is-solid",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Check if the given value is undefined, null or empty string/array/object",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -24,7 +24,7 @@
     "nwb": "0.23.x"
   },
   "author": "creotip",
-  "homepage": "creotip.io",
+  "homepage": "https://github.com/creotip/isSolid",
   "license": "MIT",
-  "repository": ""
+  "repository": "https://github.com/creotip/isSolid"
 }
